@@ -1,12 +1,7 @@
-import Footer from "./footer/footer";
-import NavBar from "./navbar/navbar";
-
-
 export default function Home(){
     return(
         <>
-            <NavBar/>
-            <Footer/>
+            <h1> This is the homepage </h1>
         </>
     )
 }
